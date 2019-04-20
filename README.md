@@ -1,6 +1,6 @@
 # 2p
 
-This repo contains set list material for 2pianos.
+This repo contains my set list material for 2pianos.
 
 - `README.md` - this file
 - `allsongs.txt` - all songs listed in the [songs](songs/) directory
@@ -11,6 +11,8 @@ This repo contains set list material for 2pianos.
 - `wip.txt` - things I'm working on learning
 
 # About 2pianos
+
+Visit us on the web:
 
 https://www.2pianostexarkana.com
 
