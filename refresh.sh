@@ -11,5 +11,3 @@ EOF
 
 find songs -type f -name "*.txt" -print |sed -e "s/^songs\///" \
     | sort >> "$SONGLIST"
-
-# exec less "$SONGLIST"
