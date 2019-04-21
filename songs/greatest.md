@@ -25,7 +25,6 @@ Is when Jesus has his final judgment day
 
 CHORUS
 
-```
 Well, a friend of mine named Steve Goodman wrote that song
 And he told me it was the perfect country & western song
 I wrote him back a letter and I told him it was
@@ -39,7 +38,6 @@ I realized that my friend had written the perfect
 Country & western song
 And I felt obliged to include it on this album
 The last verse goes like this here:
-```
 
 Well, I was drunk the day my mom got out of prison\
 And I went to pick her up in the rain\
