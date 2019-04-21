@@ -1,4 +1,6 @@
 #!/bin/bash
+
+# variables
 SONGLIST="allsongs.txt"
 VERSION="v.$(date +'%F')"
 
