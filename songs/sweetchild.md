@@ -1,4 +1,4 @@
-# SWEET CHILD O' MINE [A]
+# SWEET CHILD O' MINE
 
 She's got a smile it seems to me\
 Reminds me of childhood memories\

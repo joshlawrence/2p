@@ -1,4 +1,4 @@
-# DEAR PENIS [D]
+# DEAR PENIS
 
 Dear penis\
 I don't think I like you anymore\

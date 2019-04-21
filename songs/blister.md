@@ -1,4 +1,4 @@
-# BLISTER IN THE SUN [G]
+# BLISTER IN THE SUN
 
 When I'm out walking\
 I strut my stuff\

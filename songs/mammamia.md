@@ -1,4 +1,4 @@
-# MAMMA MIA [A]
+# MAMMA MIA
 
 I been cheated by you since you know when\
 So I made up my mind, it must come to an end

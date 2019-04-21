@@ -1,4 +1,4 @@
-# BOHEMIAN RHAPSODY [G]
+# BOHEMIAN RHAPSODY
 
 Mama, just killed a man,\
 Put a gun against his head,\
