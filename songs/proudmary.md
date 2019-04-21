@@ -3,22 +3,22 @@
 Left a good job in the city\
 Workin' for the man ev'ry night and day\
 And I never lost one minute of sleepin'\
-Worryin' 'bout the way things might have been\
+Worryin' 'bout the way things might have been
 
 Big wheel keep on turnin'\
 Proud Mary keep on burnin'\
-Rollin', rollin', rollin' on the river\
+Rollin', rollin', rollin' on the river
 
 Cleaned a lot of plates in Memphis\
 Pumped a lot of pane down in New Orleans\
 But I never saw the good side of the city\
-'Til I hitched a ride on a river boat queen\
+'Til I hitched a ride on a river boat queen
 
 CHORUS
 
 If you come down to the river\
 Bet you gonna find some people who live\
 You don't have to worry 'cause you have if you got no money\
-People on the river are happy to give\
+People on the river are happy to give
 
 CHORUS

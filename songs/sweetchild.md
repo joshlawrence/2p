@@ -3,27 +3,27 @@
 She's got a smile it seems to me\
 Reminds me of childhood memories\
 Where everything\
-Was as fresh as the bright blue sky\
+Was as fresh as the bright blue sky
 
 Now and then when I see her face\
 She takes me away to that special place\
 And if I'd stare too long\
-I'd probably break down and cry\
+I'd probably break down and cry
 
 Oh, oh, oh\
 Sweet child o' mine\
 Oh, oh, oh, oh\
-Sweet love of mine\
+Sweet love of mine
 
 She's got eyes of the bluest skies\
 As if they thought of rain\
 I hate to look into those eyes\
-And see an ounce of pain\
+And see an ounce of pain
 
 Her hair reminds me of a warm safe place\
 Where as a child I'd hide\
 And pray for the thunder\
 And the rain\
-To quietly pass me by\
+To quietly pass me by
 
-CHORUS [2x]
+CHORUS 2x
