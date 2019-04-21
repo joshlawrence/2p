@@ -25,19 +25,19 @@ Is when Jesus has his final judgment day
 
 CHORUS
 
-> Well, a friend of mine named Steve Goodman wrote that song
-> And he told me it was the perfect country & western song
-> I wrote him back a letter and I told him it was
-> Not the perfect country & western song 
-> Because he hadn't said anything at all about mama,
+> Well, a friend of mine named Steve Goodman wrote that song\
+> And he told me it was the perfect country & western song\
+> I wrote him back a letter and I told him it was\
+> Not the perfect country & western song\
+> Because he hadn't said anything at all about mama,\
 > Or trains, Or trucks, Or prison, Or getting' drunk
 
-> Well he sat down and wrote another verse to the song
-> And he sent it to me,
-> And after reading it,
-> I realized that my friend had written the perfect
-> Country & western song
-> And I felt obliged to include it on this album
+> Well he sat down and wrote another verse to the song\
+> And he sent it to me,\
+> And after reading it,\
+> I realized that my friend had written the perfect\
+> Country & western song\
+> And I felt obliged to include it on this album\
 > The last verse goes like this here:
 
 Well, I was drunk the day my mom got out of prison\
