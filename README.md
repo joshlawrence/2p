@@ -14,6 +14,6 @@ This repo contains my set list material for 2pianos.
 
 Visit us on the web:
 
-https://www.2pianostexarkana.com
+http://www.2pianostexarkana.com
 
 https://www.facebook.com/2pianos

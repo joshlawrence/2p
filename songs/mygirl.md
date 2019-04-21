@@ -1,0 +1,21 @@
+# MY GIRL
+
+I've got sunshine on a cloudy day\
+When it's cold outside I've got the month of May\
+
+Well I guess you'd say\
+What can make me feel this way?\
+My girl (my girl, my girl)\
+Talkin' 'bout my girl (my girl)\
+
+I've got so much honey the bees envy me\
+I've got a sweeter song than the birds in the trees\
+
+CHORUS
+
+I don't need no money, fortune, or fame (ooh hey hey hey)\
+I've got all the riches baby one man can claim (oh yes I do)\
+I guess you'd say\
+What can make me feel this way?\
+
+CHORUS [2x]

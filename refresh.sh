@@ -9,5 +9,5 @@ ALL SONGS - ${VERSION}
 ------------------------
 EOF
 
-find songs -type f -name "*.txt" -print |sed -e "s/^songs\///" \
+find songs -type f -name "*.md" -print |sed -e "s/^songs\///" \
     | sort >> "$SONGLIST"
