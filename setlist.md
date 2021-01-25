@@ -36,6 +36,7 @@
 
 ## STANDBY BULLSHIT
 
+- cheers theme
 - hard to handle
 - sweet child of mine
 - free fallin
