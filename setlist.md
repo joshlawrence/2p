@@ -9,17 +9,18 @@
 - piano man
 - 500 miles
 - like a virgin
-- baby got back
+- take it easy
 - I'm a believer
-- summer lovin
+- pour some sugar on me
 - you may be right
 - only the good die young
-- my girl (paul?)
+- my girl (?)
 - shout
 - the greatest c&w song
 
 ## SET 2
 
+- baby got back
 - proud mary
 - don't stop believing
 - whiskey bent, hellbound
@@ -27,6 +28,7 @@
 - let's get it on/fresh prince
 - I want it that way
 - sweet home alabama
+- summer lovin
 - great balls of fire
 - dear penis
 - where oh where
@@ -42,11 +44,12 @@
 - what'd I say
 - blister in the sun
 - twist and shout
+- the fireman
 
 ## TO LEARN
 
-- all star
 - gangsta's paradise
 - rapper's delight
 - pour some sugar on me
 - you're the one that I want
+- just a friend
