@@ -14,7 +14,8 @@ ALL SONGS - ${VERSION}
 EOF
 
 # print the first line of each file to the SONGLIST
-for i in songs/*.md; do
+for i in songs/*.txt; do
     TITLE=$( awk NR==1 "$i" |sed 's/#[[:space:]]//' )
     printf "%s\n" "$TITLE" | sort >> "$SONGLIST"
 done
+
