@@ -9,8 +9,9 @@
 - piano man
 - 500 miles
 - like a virgin
-- take it easy
 - I'm a believer
+- take it easy
+- twist and shout
 - pour some sugar on me
 - you may be right
 - only the good die young
@@ -44,7 +45,6 @@
 - every rose
 - what'd I say
 - blister in the sun
-- twist and shout
 - the fireman
 
 ## TO LEARN
