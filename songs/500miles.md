@@ -10,10 +10,10 @@ I'm gonna be the man who gets drunk next to you
 And when I haver, hey I know I'm gonna be
 I'm gonna be the man who's havering to you
 
-    And I would walk 500 miles
-    And I would walk 500 more
-    Just to be the man who walks a thousand miles
-    To fall down at your door
+And I would walk 500 miles
+And I would walk 500 more
+Just to be the man who walks a thousand miles
+To fall down at your door
 
 When I'm working, yes I know I'm gonna be
 I'm gonna be the man who's working hard for you
